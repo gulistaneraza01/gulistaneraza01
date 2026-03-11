@@ -3,15 +3,11 @@
 💻 **Full Stack Developer** focused on building scalable web applications and backend systems.
 I enjoy designing systems that handle real-world problems.
 
----
-
 ## 🚀 What I'm Currently Working On
 
 - Building **backend systems and distributed applications**
 - Learning **Go (Golang) and System Design**
 - Exploring **cloud infrastructure and DevOps workflows**
-
----
 
 ## 🛠️ Tech Stack
 
