@@ -13,11 +13,11 @@ I have worked on multiple full-stack and backend-focused projects involving **cl
 
 Along the way I have built projects such as:
 
-- 🎬 **[Video Transcoding Platform](https://github.com/gulistaneraza01/video-transcoding-platform)** — Cloud-native system that converts videos into HLS streaming formats using AWS, Docker, and FFmpeg.
-- 💬 **[Real-Time Chat Application](https://github.com/gulistaneraza01/realtime-chat-app)** — Microservices-based chat platform using Kafka, Redis, and Socket.IO.
-- 🎓 **[Learning Management System (LMS)](https://github.com/gulistaneraza01/lms-platform)** — Full-stack platform with authentication, payments, and media management.
-- 🖼️ **[AI Background Removal App](https://github.com/gulistaneraza01/ai-background-remover)** — Uses Clipdrop API with a credit-based payment system.
-- 🛒 **[MERN E-Commerce Platform](https://github.com/gulistaneraza01/mern-ecommerce)** — Product management, orders, and Stripe payment integration.
+- 🎬 **[Video Transcoding Platform](https://github.com/gulistaneraza01/video-transcoding)** — Cloud-native system that converts videos into HLS streaming formats using AWS, Docker, and FFmpeg.
+- 💬 **[Real-Time Chat Application](https://github.com/gulistaneraza01/Chat-App)** — Microservices-based chat platform using Kafka, Redis, and Socket.IO.
+- 🎓 **[Learning Management System (LMS)](https://github.com/gulistaneraza01/LMS-app)** — Full-stack platform with authentication, payments, and media management.
+- 🖼️ **[AI Background Removal App](https://github.com/gulistaneraza01/bgremoval-app)** — Uses Clipdrop API with a credit-based payment system.
+- 🛒 **[MERN E-Commerce Platform](https://github.com/gulistaneraza01/E-Commerce)** — Product management, orders, and Stripe payment integration.
 - ⚙️ **[Vercel-Style Deployment Platform](https://github.com/gulistaneraza01/vercel-clone)** — Builds GitHub repositories using AWS ECS and serves preview deployments via subdomains.
 
 These projects helped me gain experience in **backend architecture, microservices, and cloud-based deployments**.
