@@ -5,18 +5,34 @@ I enjoy designing systems that handle real-world problems.
 
 ---
 
-## 🚀 What I'm Currently Working On
+## My Journey So Far
 
-- Building **backend systems and distributed applications**
-- Learning **Go (Golang) and System Design**
-- Exploring **cloud infrastructure and DevOps workflows**
+I started my journey in computer science by exploring web development and backend systems. Over time, I became deeply interested in **building scalable applications and distributed systems**.
+
+I have worked on multiple full-stack and backend-focused projects involving **cloud infrastructure, real-time systems, and microservices architectures**.
+
+Along the way I have built projects such as:
+
+- 🎬 **[Video Transcoding Platform](https://github.com/gulistaneraza01/video-transcoding-platform)** — Cloud-native system that converts videos into HLS streaming formats using AWS, Docker, and FFmpeg.
+- 💬 **[Real-Time Chat Application](https://github.com/gulistaneraza01/realtime-chat-app)** — Microservices-based chat platform using Kafka, Redis, and Socket.IO.
+- 🎓 **[Learning Management System (LMS)](https://github.com/gulistaneraza01/lms-platform)** — Full-stack platform with authentication, payments, and media management.
+- 🖼️ **[AI Background Removal App](https://github.com/gulistaneraza01/ai-background-remover)** — Uses Clipdrop API with a credit-based payment system.
+- 🛒 **[MERN E-Commerce Platform](https://github.com/gulistaneraza01/mern-ecommerce)** — Product management, orders, and Stripe payment integration.
+- ⚙️ **[Vercel-Style Deployment Platform](https://github.com/gulistaneraza01/vercel-clone)** — Builds GitHub repositories using AWS ECS and serves preview deployments via subdomains.
+
+These projects helped me gain experience in **backend architecture, microservices, and cloud-based deployments**.
 
 ---
 
-## 🛠️ Tech Stack
+## What I'm Focused On Now
 
-**Languages:** Java, JavaScript, TypeScript, SQL  
-**Frameworks:** React, Node.js, Express.js, Spring Boot, Redux  
-**Databases & Messaging:** PostgreSQL, MongoDB, Redis, Apache Kafka  
-**DevOps & Cloud:** Docker, Kubernetes, AWS, Nginx  
-**Tools:** Git, GitHub, Prisma
+Currently I'm focusing on:
+
+- Learning **System Design and Distributed Systems**
+- Improving my **backend engineering skills**
+- Exploring **cloud infrastructure and DevOps practices**
+- Learning and exploring **Go (Golang)**
+
+---
+
+Feel free to check out my work, connect, or collaborate on interesting projects 🚀
